@@ -1,4 +1,3 @@
-SMDJS
-=====
+#SMDJS
 
-Synchronous Module Definition for JavaScript: AMD - extra HTTP requests
+Synchronous Module Definition for JavaScript: AMD without the extra HTTP requests.
